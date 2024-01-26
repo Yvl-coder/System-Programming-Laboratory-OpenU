@@ -1,0 +1,3 @@
+The chars are (seperated by vertical bar):
+a|b|c|d|
+

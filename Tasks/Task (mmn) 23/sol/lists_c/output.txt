@@ -1,0 +1,117 @@
+The chars are (seperated by vertical bar):
+A| |s|u|c
+c|e|s|s|o
+r| |t|o| 
+t|h|e| |p
+r|o|g|r|a
+m|m|i|n|g
+ |l|a|n|g
+u|a|g|e| 
+B|,| |C| 
+w|a|s| |o
+r|i|g|i|n
+a|l|l|y| 
+d|e|v|e|l
+o|p|e|d| 
+a|t| |B|e
+l|l| |L|a
+b|s| |b|y
+ |D|e|n|n
+i|s| |R|i
+t|c|h|i|e
+ |b|e|t|w
+e|e|n| |1
+9|7|2| |a
+n|d| |1|9
+7|3| |t|o
+ |c|o|n|s
+t|r|u|c|t
+ |u|t|i|l
+i|t|i|e|s
+ |r|u|n|n
+i|n|g| |o
+n| |U|n|i
+x|.| |I|t
+ |w|a|s| 
+a|p|p|l|i
+e|d| |t|o
+ |r|e|-|i
+m|p|l|e|m
+e|n|t|i|n
+g| |t|h|e
+ |k|e|r|n
+e|l| |o|f
+ |t|h|e| 
+U|n|i|x| 
+o|p|e|r|a
+t|i|n|g| 
+s|y|s|t|e
+m|.|[|6|]
+ |D|u|r|i
+n|g| |t|h
+e| |1|9|8
+0|s|,| |C
+ |g|r|a|d
+u|a|l|l|y
+ |g|a|i|n
+e|d| |p|o
+p|u|l|a|r
+i|t|y|.| 
+I|t| |h|a
+s| |b|e|c
+o|m|e| |o
+n|e| |o|f
+ |t|h|e| 
+m|o|s|t| 
+w|i|d|e|l
+y| |u|s|e
+d| |p|r|o
+g|r|a|m|m
+i|n|g| |l
+a|n|g|u|a
+g|e|s|,|[
+7|]|[|8|]
+ |w|i|t|h
+ |C| |c|o
+m|p|i|l|e
+r|s| |a|v
+a|i|l|a|b
+l|e| |f|o
+r| |a|l|m
+o|s|t| |a
+l|l| |m|o
+d|e|r|n| 
+c|o|m|p|u
+t|e|r| |a
+r|c|h|i|t
+e|c|t|u|r
+e|s| |a|n
+d| |o|p|e
+r|a|t|i|n
+g| |s|y|s
+t|e|m|s|.
+ |C| |h|a
+s| |b|e|e
+n| |s|t|a
+n|d|a|r|d
+i|z|e|d| 
+b|y| |A|N
+S|I| |s|i
+n|c|e| |1
+9|8|9| |(
+A|N|S|I| 
+C|)| |a|n
+d| |b|y| 
+t|h|e| |I
+n|t|e|r|n
+a|t|i|o|n
+a|l| |O|r
+g|a|n|i|z
+a|t|i|o|n
+ |f|o|r| 
+S|t|a|n|d
+a|r|d|i|z
+a|t|i|o|n
+ |(|I|S|O
+)|.|
+|
