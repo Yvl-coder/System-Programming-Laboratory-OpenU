@@ -1,0 +1,170 @@
+Start compiling the file "huge_error_file.as":
+Error in line 5 at "huge_error_file.am", the label "1myLabel" has invalid name!
+Error in line 6 at "huge_error_file.am", the label "thisIsAveryVeryVeryVeryVeryLongLabel" has invalid name!
+Error in line 7 at "huge_error_file.am", opcode doesnt exist!
+Error in line 8 at "huge_error_file.am", opcode doesnt exist!
+Error in line 9 at "huge_error_file.am", the label "myLabel" already defined!
+Error in line 12 at "huge_error_file.am", extra comma!
+Error in line 13 at "huge_error_file.am", double commas writen between the arguments!
+Error in line 14 at "huge_error_file.am", extra comma!
+Error in line 15 at "huge_error_file.am", double commas writen between the arguments!
+Error in line 16 at "huge_error_file.am", extra comma!
+Error in line 17 at "huge_error_file.am", extra comma!
+Error in line 18 at "huge_error_file.am", extra comma!
+Error in line 19 at "huge_error_file.am", extra comma!
+Error in line 20 at "huge_error_file.am", extra comma!
+Error in line 21 at "huge_error_file.am", extra comma!
+Error in line 22 at "huge_error_file.am", extra comma!
+Error in line 23 at "huge_error_file.am", extra comma!
+Error in line 29 at "huge_error_file.am", ".data" definition didn't get arguments!
+Error in line 30 at "huge_error_file.am", illegal argument got! ".data" definition gets only numbers (integers)!
+Error in line 31 at "huge_error_file.am", illegal argument got! ".data" definition gets only numbers (integers)!
+Error in line 32 at "huge_error_file.am", the number: 763 exceeds the limits! the limits are: -512 to 511.
+Error in line 33 at "huge_error_file.am", missing comma!
+Error in line 35 at "huge_error_file.am", illegal argument got! ".data" definition gets only numbers (integers)!
+Error in line 36 at "huge_error_file.am", illegal argument got! ".data" definition gets only numbers (integers)!
+Error in line 37 at "huge_error_file.am", illegal argument got! ".data" definition gets only numbers (integers)!
+Error in line 41 at "huge_error_file.am", ".string" definition didn't get argument!
+Error in line 42 at "huge_error_file.am", definition of ".string" must open with quotation marks!
+Error in line 43 at "huge_error_file.am", definition of ".string" must open with quotation marks!
+Error in line 44 at "huge_error_file.am", definition of ".string" must close with quotation marks!
+Error in line 45 at "huge_error_file.am", definition of ".string" must open with quotation marks!
+Error in line 46 at "huge_error_file.am", definition of ".string" must open with quotation marks!
+Error in line 47 at "huge_error_file.am", definition of ".string" must close with quotation marks!
+Error in line 49 at "huge_error_file.am", the number: 943 exceeds the limits! the limits are: -512 to 511.
+Error in line 50 at "huge_error_file.am", extraneous text!
+Error in line 51 at "huge_error_file.am", extra text after label name (the argument)!
+Error in line 53 at "huge_error_file.am", extra comma!
+Error in line 55 at "huge_error_file.am", extra comma!
+Error in line 57 at "huge_error_file.am", extra comma!
+Error in line 59 at "huge_error_file.am", extra comma!
+Error in line 61 at "huge_error_file.am", extra comma!
+Error in line 63 at "huge_error_file.am", extraneous text!
+Error in line 64 at "huge_error_file.am", extraneous text!
+Error in line 65 at "huge_error_file.am", extraneous text!
+Error in line 66 at "huge_error_file.am", extraneous text!
+Error in line 67 at "huge_error_file.am", extraneous text!
+Error in line 68 at "huge_error_file.am", extraneous text!
+Error in line 69 at "huge_error_file.am", extraneous text!
+Error in line 70 at "huge_error_file.am", extraneous text!
+Error in line 71 at "huge_error_file.am", extraneous text!
+Error in line 72 at "huge_error_file.am", extraneous text!
+Error in line 73 at "huge_error_file.am", extraneous text!
+Error in line 74 at "huge_error_file.am", extraneous text!
+Error in line 75 at "huge_error_file.am", opcode doesnt exist!
+Error in line 76 at "huge_error_file.am", opcode doesnt exist!
+Error in line 77 at "huge_error_file.am", extraneous text!
+Error in line 78 at "huge_error_file.am", extraneous text!
+Error in line 79 at "huge_error_file.am", opcode doesnt exist!
+Error in line 80 at "huge_error_file.am", opcode doesnt exist!
+Error in line 81 at "huge_error_file.am", opcode doesnt exist!
+Error in line 82 at "huge_error_file.am", opcode doesnt exist!
+Error in line 83 at "huge_error_file.am", opcode doesnt exist!
+Error in line 84 at "huge_error_file.am", opcode doesnt exist!
+Error in line 85 at "huge_error_file.am", opcode doesnt exist!
+Error in line 86 at "huge_error_file.am", opcode doesnt exist!
+Error in line 87 at "huge_error_file.am", opcode doesnt exist!
+Error in line 88 at "huge_error_file.am", opcode doesnt exist!
+Error in line 89 at "huge_error_file.am", opcode doesnt exist!
+Error in line 90 at "huge_error_file.am", opcode doesnt exist!
+Error in line 91 at "huge_error_file.am", opcode doesnt exist!
+Error in line 92 at "huge_error_file.am", opcode doesnt exist!
+Error in line 93 at "huge_error_file.am", opcode doesnt exist!
+Error in line 94 at "huge_error_file.am", opcode doesnt exist!
+Error in line 95 at "huge_error_file.am", opcode doesnt exist!
+Error in line 96 at "huge_error_file.am", opcode doesnt exist!
+Error in line 97 at "huge_error_file.am", opcode doesnt exist!
+Error in line 98 at "huge_error_file.am", opcode doesnt exist!
+Error in line 99 at "huge_error_file.am", opcode doesnt exist!
+Error in line 100 at "huge_error_file.am", opcode doesnt exist!
+Error in line 101 at "huge_error_file.am", opcode doesnt exist!
+Error in line 102 at "huge_error_file.am", opcode doesnt exist!
+Error in line 103 at "huge_error_file.am", opcode doesnt exist!
+Error in line 104 at "huge_error_file.am", opcode doesnt exist!
+Error in line 105 at "huge_error_file.am", opcode doesnt exist!
+Error in line 106 at "huge_error_file.am", opcode doesnt exist!
+Error in line 107 at "huge_error_file.am", opcode doesnt exist!
+Error in line 108 at "huge_error_file.am", opcode doesnt exist!
+Error in line 110 at "huge_error_file.am", ".data" definition didn't get arguments!
+Error in line 111 at "huge_error_file.am", ".string" definition didn't get argument!
+Error in line 112 at "huge_error_file.am", ".extern" must get 1 argument, actually got 0!
+Error in line 114 at "huge_error_file.am", missing comma!
+Error in line 115 at "huge_error_file.am", missing comma!
+Error in line 116 at "huge_error_file.am", missing comma!
+Error in line 117 at "huge_error_file.am", missing comma!
+Error in line 118 at "huge_error_file.am", missing comma!
+Error in line 119 at "huge_error_file.am", "clr" must get a single operand, actually got 0!
+Error in line 120 at "huge_error_file.am", "inc" must get a single operand, actually got 0!
+Error in line 121 at "huge_error_file.am", "dec" must get a single operand, actually got 0!
+Error in line 122 at "huge_error_file.am", "jmp" must get a single operand, actually got 0!
+Error in line 123 at "huge_error_file.am", "bne" must get a single operand, actually got 0!
+Error in line 124 at "huge_error_file.am", "jsr" must get a single operand, actually got 0!
+Error in line 125 at "huge_error_file.am", opcode doesnt exist!
+Error in line 126 at "huge_error_file.am", "prn" must get a single operand, actually got 0!
+Error in line 127 at "huge_error_file.am", opcode doesnt exist!
+Error in line 128 at "huge_error_file.am", opcode doesnt exist!
+Error in line 129 at "huge_error_file.am", opcode doesnt exist!
+Error in line 130 at "huge_error_file.am", opcode doesnt exist!
+Error in line 131 at "huge_error_file.am", opcode doesnt exist!
+Error in line 132 at "huge_error_file.am", opcode doesnt exist!
+Error in line 133 at "huge_error_file.am", opcode doesnt exist!
+Error in line 134 at "huge_error_file.am", opcode doesnt exist!
+Error in line 135 at "huge_error_file.am", opcode doesnt exist!
+Error in line 136 at "huge_error_file.am", opcode doesnt exist!
+Error in line 137 at "huge_error_file.am", opcode doesnt exist!
+Error in line 138 at "huge_error_file.am", opcode doesnt exist!
+Error in line 139 at "huge_error_file.am", opcode doesnt exist!
+Error in line 140 at "huge_error_file.am", opcode doesnt exist!
+Error in line 141 at "huge_error_file.am", opcode doesnt exist!
+Error in line 142 at "huge_error_file.am", opcode doesnt exist!
+Error in line 143 at "huge_error_file.am", opcode doesnt exist!
+Error in line 145 at "huge_error_file.am", opcode doesnt exist!
+Error in line 146 at "huge_error_file.am", opcode doesnt exist!
+Error in line 147 at "huge_error_file.am", opcode doesnt exist!
+Error in line 149 at "huge_error_file.am", operand is illegal name of label!
+Error in line 150 at "huge_error_file.am", operand is illegal name of label!
+Error in line 152 at "huge_error_file.am", operand is illegal name of label!
+Error in line 155 at "huge_error_file.am", operand is illegal name of label!
+Error in line 157 at "huge_error_file.am", operand is illegal name of label!
+Error in line 158 at "huge_error_file.am", operand is illegal name of label!
+Error in line 159 at "huge_error_file.am", operand is illegal name of label!
+Error in line 162 at "huge_error_file.am", operand is illegal name of label!
+Error in line 163 at "huge_error_file.am", operand is illegal name of label!
+Error in line 164 at "huge_error_file.am", operand is illegal name of label!
+Error in line 165 at "huge_error_file.am", operand is illegal name of label!
+Error in line 168 at "huge_error_file.am", illegal use of immediate addressing!
+Error in line 169 at "huge_error_file.am", illegal use of immediate addressing!
+Error in line 170 at "huge_error_file.am", illegal use of immediate addressing!
+Error in line 171 at "huge_error_file.am", illegal use of immediate addressing!
+Error in line 172 at "huge_error_file.am", operand is illegal name of label!
+Error in line 173 at "huge_error_file.am", operand is illegal name of label!
+Error in line 174 at "huge_error_file.am", operand is illegal name of label!
+Error in line 175 at "huge_error_file.am", operand is illegal name of label!
+Error in line 176 at "huge_error_file.am", illegal use of direct register addressing!
+Error in line 177 at "huge_error_file.am", illegal use of direct register addressing!
+Error in line 178 at "huge_error_file.am", illegal use of direct register addressing!
+Error in line 179 at "huge_error_file.am", illegal use of direct register addressing!
+Error in line 182 at "huge_error_file.am", illegal use of immediate addressing!
+Error in line 183 at "huge_error_file.am", operand is illegal name of label!
+Error in line 184 at "huge_error_file.am", illegal use of immediate addressing!
+Error in line 185 at "huge_error_file.am", operand is illegal name of label!
+Error in line 186 at "huge_error_file.am", illegal use of immediate addressing!
+Error in line 187 at "huge_error_file.am", operand is illegal name of label!
+Error in line 188 at "huge_error_file.am", illegal use of immediate addressing!
+Error in line 189 at "huge_error_file.am", operand is illegal name of label!
+Error in line 190 at "huge_error_file.am", illegal use of immediate addressing!
+Error in line 191 at "huge_error_file.am", operand is illegal name of label!
+Error in line 192 at "huge_error_file.am", illegal use of immediate addressing!
+Error in line 193 at "huge_error_file.am", illegal use of immediate addressing!
+Error in line 194 at "huge_error_file.am", operand is illegal name of label!
+Error in line 195 at "huge_error_file.am", extraneous text!
+Error in line 196 at "huge_error_file.am", extraneous text!
+Error in line 197 at "huge_error_file.am", extraneous text!
+Error in line 198 at "huge_error_file.am", extraneous text!
+Error in line 199 at "huge_error_file.am", opcode doesnt exist!
+Error in line 200 at "huge_error_file.am", opcode doesnt exist!
+Error in line 201 at "huge_error_file.am", opcode doesnt exist!
+Error in line 202 at "huge_error_file.am", opcode doesnt exist!
+The file is including error/s, do not creating .ob, .ent, .ext!
+Abort the compiling of the file.
+

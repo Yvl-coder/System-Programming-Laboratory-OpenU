@@ -1,0 +1,48 @@
+Start compiling the file "example_errors_first_pass.as":
+Error in line 4 at "example_errors_first_pass.am", illegal use of immediate addressing!
+Error in line 7 at "example_errors_first_pass.am", illegal use of immediate addressing!
+Error in line 8 at "example_errors_first_pass.am", illegal use of immediate addressing!
+Error in line 9 at "example_errors_first_pass.am", illegal use of immediate addressing!
+Error in line 10 at "example_errors_first_pass.am", illegal use of direct register addressing!
+Error in line 11 at "example_errors_first_pass.am", illegal use of immediate addressing!
+Error in line 12 at "example_errors_first_pass.am", illegal use of immediate addressing!
+Error in line 13 at "example_errors_first_pass.am", illegal use of immediate addressing!
+Error in line 14 at "example_errors_first_pass.am", illegal use of immediate addressing!
+Error in line 15 at "example_errors_first_pass.am", illegal use of immediate addressing!
+Error in line 16 at "example_errors_first_pass.am", illegal use of immediate addressing!
+Error in line 19 at "example_errors_first_pass.am", operand is illegal name of label!
+Error in line 21 at "example_errors_first_pass.am", operand is illegal name of label!
+Error in line 24 at "example_errors_first_pass.am", illegal field number (must be "1" or "2")!
+Error in line 25 at "example_errors_first_pass.am", the string field in ".struct" definition must close with quotation marks!
+Error in line 27 at "example_errors_first_pass.am", extraneous text!
+Error in line 28 at "example_errors_first_pass.am", extraneous text!
+Error in line 29 at "example_errors_first_pass.am", extraneous text!
+Error in line 30 at "example_errors_first_pass.am", extraneous text!
+Error in line 31 at "example_errors_first_pass.am", extraneous text!
+Error in line 32 at "example_errors_first_pass.am", extraneous text!
+Error in line 33 at "example_errors_first_pass.am", extraneous text!
+Error in line 34 at "example_errors_first_pass.am", extraneous text!
+Error in line 36 at "example_errors_first_pass.am", the label "label" dont associated with directive sentence or command sentence!
+Error in line 38 at "example_errors_first_pass.am", immediate addressing must be a number (integer)!
+Error in line 41 at "example_errors_first_pass.am", ".data" definition didn't get arguments!
+Error in line 42 at "example_errors_first_pass.am", ".struct" definition didn't get arguments!
+Error in line 44 at "example_errors_first_pass.am", extra comma!
+Error in line 46 at "example_errors_first_pass.am", definition of ".string" must close with quotation marks!
+Error in line 47 at "example_errors_first_pass.am", ".struct" definition didn't get a string argument!
+Error in line 48 at "example_errors_first_pass.am", ".string" definition didn't get argument!
+Error in line 49 at "example_errors_first_pass.am", ".data" definition didn't get arguments!
+Error in line 50 at "example_errors_first_pass.am", ".struct" definition didn't get arguments!
+Error in line 51 at "example_errors_first_pass.am", ".string" definition didn't get argument!
+Error in line 54 at "example_errors_first_pass.am", the label "_!@+" has invalid name!
+Error in line 58 at "example_errors_first_pass.am", the label "hello" already defined!
+Error in line 60 at "example_errors_first_pass.am", opcode doesnt exist!
+Error in line 64 at "example_errors_first_pass.am", the label "G" already defined!
+Error in line 65 at "example_errors_first_pass.am", the label "&^%$" has invalid name!
+Error in line 66 at "example_errors_first_pass.am", the label "*&^%$#" has invalid name!
+Error in line 67 at "example_errors_first_pass.am", the label "&^$#" has invalid name!
+Error in line 68 at "example_errors_first_pass.am", the label "#@$@#@" has invalid name!
+Warning in line 70 at "example_errors_first_pass.am", the label "b" is meaningless!
+Error in line 73 at "example_errors_first_pass.am", ".extern" must get 1 argument, actually got 0!
+The file is including error/s, do not creating .ob, .ent, .ext!
+Abort the compiling of the file.
+

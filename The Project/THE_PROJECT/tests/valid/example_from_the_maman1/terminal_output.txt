@@ -1,0 +1,3 @@
+Start compiling the file "example_from_the_maman1.as":
+The file compiled successfully!
+

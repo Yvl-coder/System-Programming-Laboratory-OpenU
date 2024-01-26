@@ -1,0 +1,3 @@
+Start compiling the file "valid_example.as":
+The file compiled successfully!
+

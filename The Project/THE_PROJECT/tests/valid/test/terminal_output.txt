@@ -1,0 +1,2 @@
+Start compiling the file "test.as":
+The file compiled successfully!

@@ -1,0 +1,6 @@
+Start compiling the file "example_errors_second_pass.as":
+Error in line 3 at "example_errors_second_pass.am", the label "blah" is defined as entry, but not implemented in the code!
+Error in line 6 at "example_errors_second_pass.am", the label "P" doesnt exist!
+The file is including error/s, do not creating .ob, .ent, .ext!
+Abort the compiling of the file.
+
